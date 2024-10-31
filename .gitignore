@@ -1,0 +1,10 @@
+node_modules/
+
+
+*.md 
+*.txt
+*.pdf
+*.hold
+
+
+notes/

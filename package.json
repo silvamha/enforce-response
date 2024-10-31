@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@lmstudio/sdk": "^0.2.0",
+    "@mistralai/mistralai": "^1.1.0",
+    "axios": "^1.7.7",
+    "llama": "^2.1.14",
+    "openai": "^4.69.0",
+    "vite": "^5.4.10"
+  }
+}
